@@ -8,9 +8,9 @@ public class Constants {
 
 	public static final int GET_XY_INTERVAL = 50;
 
-	public static final String APP_ID = "14746807";
-	public static final String API_KEY = "yYIgGTHpMZ2sNllClMTxa69G";
-	public static final String SECRET_KEY = "ncAVVAX3K98zh9aB9Gfj40W3vBmw4ubn";
+	public static final String APP_ID = "14***07";
+	public static final String API_KEY = "yYIgGTHp****Txa69G";
+	public static final String SECRET_KEY = "ncA******ubn";
 
 	public static final String SCREENSHOT_NAME = "screenshot_time.png";
 
